@@ -1,12 +1,12 @@
 # Supplier Quality Analysis – Power BI
 ## Overview Dashboard
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
 ## Supplier Analysis
-![Supplier Analysis](images/supplier_analysis.png)
+![Supplier Analysis](images/Supplier analysis.png)
 
 ## Root Cause Analysis
-![Root Cause](images/root_cause.png)
+![Root Cause](images/Root Cause Analysis.png)
 
 ## Overview
 This project analyzes supplier quality performance in a plastic injection manufacturing environment.  
@@ -35,3 +35,4 @@ The objective is to identify high-risk suppliers, main defect drivers, and the f
 
 ## Author
 Inês
+
